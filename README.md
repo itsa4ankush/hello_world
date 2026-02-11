@@ -1,6 +1,6 @@
 # The hello world, because traditions are important!
 
-## This READ ME offers a insight into all the projects since I have used to name them as some favourite cusines, because I am a foodie. LOL
+## Since I have decided to name all the projects based on popular food cusines or some of my favourite dishes. This READ ME helps and gives an overview of the project. 
 
 ### 1. The Butter Chicken!
 
