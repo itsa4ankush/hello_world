@@ -8,4 +8,14 @@ Project categories
 
 ### 1. The Butter Chicken!
 
-The [Butter Chicken](https://github.com/itsa4ankush/butterrchicken), is an first prize winner of the ElevenLabs Worldwide Hackathon in 2025 for the Amsterdam edition. The project, Anna, is a conversational voice agent developed for government and public services. This project is the recreation of the simplified version for the orignal build during the competition. It is a full course meal
+The [Butter Chicken](https://github.com/itsa4ankush/butterrchicken), is an first prize winner of the ElevenLabs Worldwide Hackathon in 2025 for the Amsterdam edition. The project, Anna, is a conversational voice agent developed for government and public services. This project is the recreation of the simplified version for the orignal build during the competition. It is a full course meal.
+
+
+### 2. The Chai!
+
+The [Chai](https://github.com/itsa4ankush/the-chai), is a reimagination of my MIT Global Hackathon challenge reimagination where we analyzed a sample dataset of Ghana patients, medical equipments services, and facilities to connect the patient to reqquired medical services. It can also offers stratgic insights, planning and medical gaps for critical services. I have used knowledge graphs and RAG to connect with an voice agent along with a dashbaord for visualization. It is an appetizer.
+
+
+### 3. The Pani Puri!
+
+The [Chai](https://github.com/itsa4ankush/the-pani-puri), is a reimagination of my Miro x Lovable Hackathon challenge in Amsterdam submission where I attempted to simplify B2B and B2c event planning such as corporate events, parties, birthday parties or other parties with an AI agent. The agent reduces the timme and effors for a simple Google search for shortlisting, identifying vendors and finalizing. It is an appetizer.
