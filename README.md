@@ -18,4 +18,4 @@ The [Chai](https://github.com/itsa4ankush/the-chai), is a reimagination of my MI
 
 ### 3. The Pani Puri!
 
-The [Chai](https://github.com/itsa4ankush/the-pani-puri), is a reimagination of my Miro x Lovable Hackathon challenge in Amsterdam submission where I attempted to simplify B2B and B2c event planning such as corporate events, parties, birthday parties or other parties with an AI agent. The agent reduces the timme and effors for a simple Google search for shortlisting, identifying vendors and finalizing. It is an appetizer.
+The [the-pani-puri](https://github.com/itsa4ankush/the-pani-puri), is a reimagination of my Miro x Lovable Hackathon challenge in Amsterdam submission where I attempted to simplify B2B and B2c event planning such as corporate events, parties, birthday parties or other parties with an AI agent. The agent reduces the timme and effors for a simple Google search for shortlisting, identifying vendors and finalizing. It is an appetizer.
