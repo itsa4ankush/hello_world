@@ -20,6 +20,6 @@ The [Chai](https://github.com/itsa4ankush/the-chai), is a reimagination of my MI
 
 The [the-pani-puri](https://github.com/itsa4ankush/the-pani-puri), is a reimagination of my Miro x Lovable Hackathon challenge in Amsterdam (April, 2026) submission where I attempted to simplify B2B and B2c event planning such as corporate events, parties, birthday parties or other parties with an AI agent. The agent reduces the timme and effors for a simple Google search for shortlisting, identifying vendors and finalizing. It is an appetizer.
 
-### . The Flafel Doner!
+### 4. The Flafel Doner!
 
 The [Flafel Doner](https://github.com/itsa4ankush/Falafel_Doner), is a reimagination of my European Defense Tech Hub Hackathon challenge in Netherlands (April 2026) submission where I attempted to buold an AI agent, dashbaord and analytics which can ingest real-time UAV telemetry data (used sample CSV file here) to detect anomalies such as GPS spoofing, Jammers, and RC inputs and help the drone operator in stressful situation. The solution envisoned for 3-different use cases can provide swift insights offer recommended action plans. It is an appetizer.
