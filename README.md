@@ -27,4 +27,4 @@ The [Flafel Doner](https://github.com/itsa4ankush/Falafel_Doner), is a reimagina
 
 ### 5. The Rajma-Chawal!
 
-The [Rajma-Chawal](https://github.com/itsa4ankush/Falafel_Doner), is a project submission of our team for the 5th Hack-Nation Global AI HAckathon in collabboration with MIT Sloan AI Club in Aptil 2026. We developed a healthcare AI iltelligence prototype in 24-hours based a sample databricks provided by Databricks, our challenge sponsor. The prototype based on the input data offers healthcare intelligence to professionals, users, and policy makers about citicalhealthcare infrastructure in India. 
+The [Rajma-Chawal](https://github.com/itsa4ankush/rajma-chawal), is a project submission of our team for the 5th Hack-Nation Global AI HAckathon in collabboration with MIT Sloan AI Club in Aptil 2026. We developed a healthcare AI iltelligence prototype in 24-hours based a sample databricks provided by Databricks, our challenge sponsor. The prototype based on the input data offers healthcare intelligence to professionals, users, and policy makers about citicalhealthcare infrastructure in India. 
