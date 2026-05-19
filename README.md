@@ -27,4 +27,9 @@ The [Flafel Doner](https://github.com/itsa4ankush/Falafel_Doner), is a reimagina
 
 ### 5. The Rajma-Chawal!
 
-The [Rajma-Chawal](https://github.com/itsa4ankush/rajma-chawal), is a project submission of our team for the 5th Hack-Nation Global AI HAckathon in collabboration with MIT Sloan AI Club in Aptil 2026. We developed a healthcare AI iltelligence prototype in 24-hours based a sample databricks provided by Databricks, our challenge sponsor. The prototype based on the input data offers healthcare intelligence to professionals, users, and policy makers about citicalhealthcare infrastructure in India. 
+The [Rajma-Chawal](https://github.com/itsa4ankush/rajma-chawal), is a project submission of our team for the 5th Hack-Nation Global AI HAckathon in collabboration with MIT Sloan AI Club in Aptil 2026. We developed a healthcare AI iltelligence prototype in 24-hours based a sample databricks provided by Databricks, our challenge sponsor. The prototype based on the input data offers healthcare intelligence to professionals, users, and policy makers about citicalhealthcare infrastructure in India. It is a full course meal.
+
+
+###   6. The Chole bhature!
+
+The [Chole-bhature](https://github.com/itsa4ankush/albert-research-assistant), is a project submission of my IBM Bob Hackathon. In this project I attempted to solve the review of literature problem often faced by students, resarcheres, and PhD candidates by providing a structured, organized, and analytical approach to consolidating the challenges during preliminary qualitative research and review of literature. The solution uses IBM's AI and IDE capablities to develop an dashbaord that provides relevance of your review of literature based on your resaerch topics and helps you structure your overall research. It is a full course meal.
